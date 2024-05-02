@@ -1,0 +1,6 @@
+SpeechRecognition
+rich
+pyttsx3
+pyaudio
+openai
+re
